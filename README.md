@@ -35,6 +35,20 @@ Solana's First Auto-Battle PvP Game
  
 
 
+<h3><strong><i>DefiBookie Sportsbook</i></strong></h3>
+<hr />
+
+<img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/d7855363-03cb-499a-b531-3956df088a70.png">
+
+- Live: <a href="https://defibookie.io/">Sportsbook</a>
+- Official links:
+  - Twitter:  https://twitter.com/defiookie
+  - Magic Eden: https://magiceden.io/marketplace/solbookie
+  - Sportsbook: https://defibookie.io/sports
+  - Cashier: https://cashier.defibookie.io
+
+
+
 <h3><strong><i>Turtles Staking & Venture</i></strong></h3>
 <hr />
 
@@ -47,6 +61,7 @@ Solana's First Auto-Battle PvP Game
   - Reveal your Turtles:  https://staking.turtles.vc/reveal/
   - YouTube:  https://youtube.com/@turtlesnft
   - Twitter:  https://twitter.com/TurtlesNFT
+
 
 
 <h3><strong><i>Sol City Poker Club</i></strong></h3>
