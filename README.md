@@ -81,7 +81,25 @@ Solana's premier poker arcade.
   - Gen 1 Distributoor: https://scpc.distributooor.app/
  
 
-    
+<h3><strong><i>Lucky Kitties</i></strong></h3>
+<hr />
+
+Slot Machine
+  <img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/02e48e64-8a6c-4e24-b58b-3fcb628217bf.png">
+
+  - Live: <a href="https://luckykitties.xyz/">Lucky Kitties</a>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+
+   
 <h3><strong><i>Monopoly</i></strong></h3>
 <hr />
 
@@ -101,24 +119,6 @@ Each NFT has it's own property.
     <br />
     <br />
     
-
-
-<h3><strong><i>Lucky Kitties</i></strong></h3>
-<hr />
-
-Slot Machine
-  <img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/02e48e64-8a6c-4e24-b58b-3fcb628217bf.png">
-
-  - Live: <a href="https://luckykitties.xyz/">Lucky Kitties</a>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
 
 
 
