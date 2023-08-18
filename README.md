@@ -122,6 +122,22 @@ Slot Machine
 
 
 
+<h3><strong><i>Wenlambo</i></strong></h3>
+<hr />
+
+Math games on Solana
+  <img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/59e73ffd-afa9-478e-b1dd-06970f245698.png">
+
+  - Live: <a href="https://wenlam.bo/">Wenlambo</a>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
 
 
   
