@@ -1,5 +1,23 @@
 # Solana Projects
 
+<h3><strong><i>Pick & Win</i></strong></h3>
+<hr />
+
+Random Prize Machine
+
+<img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/24fc5a8a-2052-4b6a-843f-505dc10d41f1.png">
+
+- Live: <a href="https://picknwin.io/ ">Pick & Win</a>
+- Official links: 
+  - Twitter: https://twitter.com/TheFoxClubSOL
+  - Linktree: https://linktr.ee/thefoxclub
+  - Website: https://thefoxclub.life/
+  - Staking: https://foxclub.stakooor.app/
+  - Distributor: https://foxclub.distributooor.app/
+  - Secondary: https://magiceden.io/marketplace/thefoxclub
+
+
+
 <h3><strong><i>POP!</i></strong></h3>
 <hr />
 
@@ -15,6 +33,27 @@ Solana's First Auto-Battle PvP Game
   - Client Download: https://solcitypoker.com/play
   - Distributoor: https://pop.distributooor.app/
 
+
+
+<h3><strong><i>Monopoly</i></strong></h3>
+<hr />
+
+Monopoly game based on NFT staking.
+Each NFT has it's own property.
+
+  <img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/7bc23635-0d34-483e-b680-47b64af239d5.png">
+
+  - Live: <a href="https://www.monopoly.cafe/">Monopoly</a>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    
+
+
 <h3><strong><i>Lucky Kitties</i></strong></h3>
 <hr />
 
@@ -22,11 +61,14 @@ Slot Machine
   <img align="right" width="350px" src="https://github.com/snowymx/Projects/assets/83990956/02e48e64-8a6c-4e24-b58b-3fcb628217bf.png">
 
   - Live: <a href="https://luckykitties.xyz/">Lucky Kitties</a>
-  - Official links:
-    - Magic Eden: https://magiceden.io/marketplace/pop_nft
-    - Staking: https://pop.stakooor.app/
-    - Client Download: https://solcitypoker.com/play
-    - Distributoor: https://pop.distributooor.app/
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
 
 
 <h3><strong><i>Sol City Poker Club</i></strong></h3>
